@@ -1,0 +1,11 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          { "type": "command", "command": "echo e2e-plugin-529 session start" }
+        ]
+      }
+    ]
+  }
+}
