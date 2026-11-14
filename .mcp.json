@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "e2e-remote": {
-      "type": "http",
-      "url": "https://mcp.example.com/e2e-plugin-529"
+    "e2e-echo": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/scripts/echo_mcp.py"]
     }
   }
 }
