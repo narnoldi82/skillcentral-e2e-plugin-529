@@ -1,14 +1,13 @@
 {
   "name": "e2e-plugin-529",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "SkillCentral end-to-end test plugin for issue #529: one skill, one command, one agent, one hook and an MCP server.",
   "author": {
     "name": "SkillCentral e2e"
   },
   "metadata": {
     "skillcentral": {
-      "hash": "sha256:431c8a21fb7e3580b8f546be21c47a2e8f590773db60be9381602459f03ae165"
+      "hash": "sha256:1ca8fa871ee6ae7877565f4c0f706b6ccef1c426f737e8ba4ec94d108b8bf747"
     }
-  },
-  "agents": "./missing-agents/"
+  }
 }
